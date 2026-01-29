@@ -1,0 +1,326 @@
+#: locale=it
+
+## Action
+
+### URL
+LinkBehaviour_C5E76D33_02C4_EBDF_4183_528ED5BD5F68.source = WWW.TURISMOFVG.IT
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_B31CC509_034B_7BCB_4167_939473FCB8FD.text = AQUILEIA
+HotspotPanoramaOverlayTextImage_B2DE9FF6_A085_4F61_41DF_FAC4B460445B.text = Biotopo
+HotspotPanoramaOverlayTextImage_04491A48_11B9_9B3A_41AB_2F15461FFC18.text = CIVIDALE
+HotspotPanoramaOverlayTextImage_C30E498B_D75F_8E2E_41E9_29ED8FB4A09F.text = HOME
+HotspotPanoramaOverlayTextImage_02911BA5_115B_996A_41A6_7E7640AC7F40.text = PALMANOVA
+HotspotPanoramaOverlayTextImage_C30E198B_D75F_8E2E_41D5_10C53D50D968.text = PALU'
+HotspotPanoramaOverlayTextImage_B3A7D526_A084_F0E1_41E1_E02AD1375524.text = Sito UNESCO di Palu'
+HotspotPanoramaOverlayTextImage_C30ED990_D75F_8E3B_41B2_C5E2D4EFE444.text = VISITA IL PARCO DELLE DOLOMITI FVG
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_3D4DF1C8_0A12_8F74_4153_A2CE945FB018.url = media/map_6474672D_FAAC_5410_41E4_AA444977CE1F_it_0.webp
+imlevel_3D4DE1C8_0A12_8F74_41A0_EBA3641AA624.url = media/map_6474672D_FAAC_5410_41E4_AA444977CE1F_it_1.webp
+imlevel_3D4DD1C8_0A12_8F74_419A_B8297A1891F1.url = media/map_6474672D_FAAC_5410_41E4_AA444977CE1F_it_2.webp
+imlevel_3D4DC1C8_0A12_8F74_4191_58437AC01BC7.url = media/map_6474672D_FAAC_5410_41E4_AA444977CE1F_it_3.webp
+imlevel_3D4D31C9_0A12_8F74_4175_7CDD0D135BAD.url = media/map_6474672D_FAAC_5410_41E4_AA444977CE1F_it_4.webp
+imlevel_3EF223EE_0A33_F30C_41A0_661ED4B60A90.url = media/panorama_227764CF_0874_54CB_41A4_11F9223EDD14_HS_gcn4yf1h_it.webp
+imlevel_339292D6_0A33_8D1D_4184_BAA7119AD068.url = media/panorama_227764CF_0874_54CB_41A4_11F9223EDD14_HS_v2881sm0_it.webp
+imlevel_3EF523D3_0A33_F31B_418D_3F53864BAC9B.url = media/panorama_227764CF_0874_54CB_41A4_11F9223EDD14_HS_xsgimy6t_it.webp
+imlevel_3C571838_0A33_FD14_41A1_1FA134CEFD8A.url = media/panorama_93A2AF47_8312_D71A_41D3_BDB86121D07F_HS_wn7wd7ak_it.webp
+imlevel_3C55C787_0A33_F3FC_4186_2F9D1F9C0A7A.url = media/panorama_93A2AF47_8312_D71A_41D3_BDB86121D07F_HS_z01hif1g_it.webp
+imlevel_3DD2EA97_0A33_FD1C_41A0_BDB2147C9553.url = media/panorama_C3D3BEAD_D75D_8265_41DC_9DA1DFD85EE6_HS_8jfqjw8f_it.webp
+imlevel_3C5168ED_0A33_FD0C_41A1_F04C8E13E0A9.url = media/panorama_C3D3BEAD_D75D_8265_41DC_9DA1DFD85EE6_HS_joqycsry_it.webp
+imlevel_3C5138CF_0A33_FD0C_41A2_92D66FDB72C5.url = media/panorama_C3D3BEAD_D75D_8265_41DC_9DA1DFD85EE6_HS_tr7btwa7_it.webp
+
+### Title
+panorama_6662BA3B_FAA4_3C71_41E1_7D78D05D15D9.label = Acquedotto1
+panorama_596AA0B5_FAAC_CC70_41D7_051C7DB90B85.label = Acrobati del Sole
+panorama_91F9F836_827B_3B5D_41A4_F2D3667BCBC9.label = Aquileia
+model_91DB779C_8317_572D_41D4_845EDA9F9E63.label = BRICIOLA DI PANE: INDICAZIONE CON NOME DELLA FOTO
+panorama_6DF13E5A_FAAC_5433_41E2_1C5A55EE7F6A.label = Basilica - Northern Hall
+panorama_6DFEF96E_FAAC_3C10_41DC_00F5BFA712E2.label = Basilica - Sud halle
+panorama_6167D86B_FAAC_7C10_41EE_E0E9E645D1E5.label = Basilica - interni 1
+panorama_6DF1B35B_FAAC_4C30_41E4_380BF519CBC4.label = Basilica - interni 2
+panorama_6DF1E383_FAAC_CC10_41CD_F29095BEA91D.label = Basilica di S. Maria Assunta
+panorama_61B1FD64_FABC_7410_41E6_D8BF82F75230.label = Belvedere di Andreis
+panorama_2B785D48_0A36_7774_4183_3E54B38AA614.label = Belvedere di Andreis
+panorama_6E660DF0_FABC_57F0_41E6_307268A06D47.label = Campanile di Val Montanaia 1
+panorama_6E65C1CC_FABC_CC10_41B9_2AC9EB07C833.label = Campanile di Val Montanaia 2
+panorama_6E6475C7_FABC_F411_41E8_0C24B8D12D36.label = Campanile di Val Montanaia 3
+panorama_6DB86E7B_FAAC_D4F0_41E7_C7B7391DE7C7.label = Casa Medievale
+panorama_6E640A9F_FABC_DC30_41E0_B3CD42B40237.label = Casera Chiampiuz 
+panorama_6E64CBBF_FABC_3C70_41D8_5F14A4C5D6A1.label = Casera Pramaggiore 1
+panorama_6E64019E_FABC_4C30_41E2_55F162CA28CE.label = Casera Pramaggiore 2
+panorama_6E640536_FABC_5470_41D2_196F29268CFC.label = Casera Roncada 1
+panorama_6E640740_FABC_340F_41C8_BE71E5883EEA.label = Casera Valine 1
+panorama_6E65CA95_FABD_DC30_41D6_F11FDBC1FED1.label = Casera Valine 2
+panorama_6E65EBB5_FABD_FC70_41CE_10C5D398604F.label = Casso 1
+panorama_6E65BBB8_FABD_DC70_41E0_D0995AA28F9C.label = Casso 2
+panorama_6DBF09DE_FAAC_FC30_41D0_00F7A60C9DE5.label = Cividale del Friuli
+panorama_6DFEF71D_FAAC_F430_41E4_D6802EF4D626.label = Decumano Aratria Galla
+panorama_C3D3BEAD_D75D_8265_41DC_9DA1DFD85EE6.label = Dolomiti ovest
+panorama_6DF1C6E0_FAAC_D40F_41E4_B6FCFFF5C530.label = Domus di Tito Macro
+panorama_6E677BBD_FABC_3C70_41E2_EEE76AF61FEF.label = Erto
+panorama_6E65AC67_FABC_5410_41E3_113AA652A340.label = Faglia Peradriatrica 1
+panorama_6E65FC4A_FABC_7410_41D6_C45F57528830.label = Faglia Peradriatrica 2
+panorama_6E65ACA1_FABC_5410_41EC_1DD7813EC9A8.label = Faglia Peradriatrica 3
+panorama_6DF18458_FAAC_343F_41E2_21747D829FA6.label = Fondo CAL
+panorama_6E65DCC6_FABC_3410_41E5_EBD5126575C5.label = Forra Rio Purone
+panorama_6E657EDF_FABC_D430_41D1_AA8A6B32F9E8.label = Frisanco 1
+panorama_6E652EE4_FABC_F410_41C2_11C0CFADD854.label = Frisanco 2
+panorama_6D5ED8B4_FAA4_5C70_41E7_0DF53CF53D8E.label = Galleria 2R di contromina del rivellino veneziano
+video_2FE9D962_5F2D_DFFA_41CB_4ECC075A5D96.label = Intro
+panorama_6DB9BD45_FAAC_D410_41DB_5242C9462A46.label = Ipogeo Celtico 1
+panorama_6DB81BFD_FAAC_33F0_41E8_FA93342A2802.label = Ipogeo Celtico 2
+panorama_6E6693CE_FAA4_CC10_41D0_5616E30D4168.label = Livenza by boat 1
+panorama_6E6562A6_FAA4_CC10_41EC_0C4B40474E67.label = Livenza by boat 2
+panorama_6E6512BB_FAA4_4C70_41D8_71C02A63819A.label = Livenza by boat 3
+panorama_6D59D3C4_FAA4_4C10_41B9_F9B356B06583.label = Loggia del Baluardo Donato
+panorama_6E657E51_FABC_D430_41C5_73A61063D496.label = Malga Senons
+panorama_6DBF76DA_FAAC_5430_41E8_7C4017A09639.label = Museo Archeologico
+panorama_6DF1D4F2_FAAC_55F0_41CD_CBC2F3AFCAB2.label = Museo Archeologico 1
+panorama_6DF03F71_FAAC_54F1_41DF_5788802CF15B.label = Museo Archeologico 2
+panorama_6DF1CA1C_FAAC_7C37_41ED_8098F3AB4ACA.label = Museo Archeologico 3
+panorama_6DBFE0D2_FAAC_4C30_41E7_E1656376D2C9.label = Museo Cristiano
+panorama_6DB9DBE4_FAAC_7C17_41E9_331840E67CC1.label = Museo De Martiis 1
+panorama_6DBF760B_FAAC_5410_41D1_488076654517.label = Museo De Martiis 2
+panorama_6DF1A50A_FAAC_5410_41D9_B102A050389F.label = Museo Paleocristiano 1
+panorama_6DF1CF65_FAAC_5411_41DA_B19C1E762A07.label = Museo Paleocristiano 2
+panorama_6DBDB93A_FAA4_FC70_41EB_87BD1CCCDFE7.label = Museo Torre Pordenone 1
+panorama_6E6501C6_FAA4_4C10_41C1_A8E1D2CBAFC6.label = Museo Torre Pordenone 2
+panorama_6DF00A34_FAAC_3C70_4161_B0D127A2C3F9.label = Palazzo Episcopale
+panorama_6D583069_FAA4_4C11_41ED_AAB2DD4324A7.label = Palmanova
+panorama_C793797F_D74F_8EE5_41DA_8735BBF3F23D.label = Palmanova
+panorama_6D59CF6A_FAA4_7411_41E3_E4BCF657276B.label = Palmanova 
+panorama_93A2AF47_8312_D71A_41D3_BDB86121D07F.label = Palu
+panorama_6E67F019_FAA4_4C31_41E3_05E496204520.label = Palu Panoramica Sito
+panorama_6E657187_FABC_4C10_41E7_E300A6D74364.label = Passo Suola 1
+panorama_6E6425B5_FABC_7470_41DE_4839B6CA53DB.label = Passo Suola 2
+panorama_6D58E1DC_FAA4_CC30_41D1_E9390F6CAB71.label = Piazza Grande
+panorama_6DB841B2_FAAC_4C70_41B5_19568A5098EC.label = Ponte del Diavolo
+panorama_6D59931D_FAA4_CC30_41EA_F46B456C79F5.label = Porta Cividale
+panorama_6DF0749F_FAAD_D430_41E4_E4B2E3E03AAC.label = Porto Fluviale
+panorama_227764CF_0874_54CB_41A4_11F9223EDD14.label = Satellite image
+panorama_6DF00538_FAAD_F470_41E4_073665F695FA.label = Sepolcreto
+panorama_6E652293_FAA4_4C30_41E1_63D0E86E0A80.label = Sorgenti della Santissima
+panorama_6DB90466_FAAD_F410_41C0_A84D4552BE7C.label = Tempietto Longobardo
+panorama_6DBE957D_FAAD_D4F0_41EA_8039F7EF61B0.label = Tempietto Longobardo Esterni
+panorama_6E67B66D_FABC_5411_41E3_7B4661CAE745.label = Val Cimoliana 1
+panorama_6E656900_FABC_3C10_41D4_C550B1672CEE.label = Val Cimoliana Cascata
+panorama_94E8CD74_8317_7BFE_41B9_7828C5745480.label = Val Montanaia drone3
+panorama_6E66CBAF_FABF_DC10_41D0_1955944EEDA8.label = Val Settimana Cascata 1
+panorama_6E641EAC_FABF_F410_41DF_994182DA180B.label = Val Settimana Cascata 2
+panorama_6E66D4B1_FABC_3470_41E5_D19F60114AD9.label = Val Zemola 2
+panorama_6DBEBF56_FAAD_F433_41DB_FB6532BA2DA9.label = Vittorio Podrecca -TEATRO DELLE MERAVIGLIE DI MARIA SIGNORELLI 1
+panorama_6DB99ADD_FAAD_DC31_41C6_C005C7DB2B8F.label = Vittorio Podrecca -TEATRO DELLE MERAVIGLIE DI MARIA SIGNORELLI 2
+map_6474672D_FAAC_5410_41E4_AA444977CE1F.label = mappa
+panorama_6E67230C_FAA5_CC10_41E9_F6F1F22AF520.label = palu1D
+
+### Video
+videolevel_3D5C179C_0A12_F30D_4180_E9A39528F1C4.url = media/video_2FE9D962_5F2D_DFFA_41CB_4ECC075A5D96_it.mp4
+videolevel_3D5C179C_0A12_F30D_4180_E9A39528F1C4.posterURL = media/video_2FE9D962_5F2D_DFFA_41CB_4ECC075A5D96_poster_it.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_9B6BB07A_F5EC_5B72_41E4_934C721293A5.label =  PALU DI LIVENZA
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = AMENITIES
+Button_9B69D076_F5EC_5B72_41DA_051F4871ECE6.label = AQUILEIA
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_F16FE21B_EFB7_88D2_41E7_7787E03472A0.label = CHIUDI
+Button_F372AD5C_EFB7_9B56_41D5_46BFC3E1CEA5.label = CHIUDI
+Button_FBC9CE9B_EF9B_B548_41CD_C98FBD1A9720.label = CHIUDI
+Button_F2AF3581_EFB7_8BAF_41E9_9528FBC53139.label = CHIUDI
+Button_F378FE34_EFB7_98D5_41D7_F80C3C3F6F8D.label = CHIUDI
+Button_C1851BFF_DBDE_CB1C_41DB_0EC83C75D525.label = CHIUDI
+Button_9B68A078_F5EC_5B7E_41E5_B2DF7C676734.label = CIVIDALE DEL FRIULI
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_BFA4EC30_F9E4_3470_41BC_B42C106D8819.label = DOLOMITI FRIULANE
+Button_9B6BF07C_F5EC_5B76_41CA_C674F5DD8A90.label = DOLOMITI FRIULANE
+Button_CD00A0A7_DBA6_552C_41C0_F9529AD37F0B.label = ENG
+Button_9B6A507E_F5EC_5B72_41E4_2F52146035A8.label = ENG
+Button_CCFF45C2_DBAA_5F64_41E2_CA899944C1A4.label = ENG
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_9B69B076_F5EC_5B72_41D0_4337E8E6289F.label = HOME
+Button_591A407B_FB0A_90E5_41EA_FCC2F5C5C1B4.label = INDIETRO
+Button_2B87127A_0A31_8D14_4185_60897DF900DC.label = INDIETRO
+Button_D0F48688_02CD_66C9_416A_CE10426F755A.label = INDIETRO
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_C871EE39_DBBA_4D27_41DF_DE9C75D2BBE4.label = ITA
+Button_9B6A107D_F5EC_5B76_41B2_C7AE021CC54C.label = ITA
+Button_CC947BC9_DBAA_4B64_41D9_9B6E1E5DE411.label = ITA
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Lorem Ipsum
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Lorem Ipsum
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_9B6B3079_F5EC_5B7E_41E5_AD2109C31622.label = PALMANOVA
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = REALTOR
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = RESTAURANTS
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = ROOMS
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = SPORTS AREA
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+Button_1DE0761A_0A12_F514_41A2_8EB5C1369C41.label = clicca su quest'icona per aprire le foto 360*
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_it.png
+Image_101B977C_0A13_B30D_419B_F1941B45A3CD.url = skin/Image_101B977C_0A13_B30D_419B_F1941B45A3CD_it.png
+Image_10378B67_0A11_B33C_4172_A290A138EE10.url = skin/Image_10378B67_0A11_B33C_4172_A290A138EE10_it.png
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_it.png
+Image_66C42CFB_F56D_CB71_41E9_D66143DE881F.url = skin/Image_66C42CFB_F56D_CB71_41E9_D66143DE881F_it.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_it.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_it.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_it.jpg
+Image_9B123075_F5EC_5B76_41E6_EFF045A719F7.url = skin/Image_9B123075_F5EC_5B76_41E6_EFF045A719F7_it.png
+
+### Label
+Label_F37F9D57_EFB7_9B52_41DA_E7397D2D3E9D.text = 1. Acquedotto 1
+Label_F305DE31_EFB7_98EF_41E3_52F20791ACC3.text = 1. Acrobati del Sole
+Label_FBDC5E98_EF9B_B548_41E2_CA4230C77448.text = 1. Basilica - interni 1
+Label_F170A211_EFB7_88AE_41DB_2841458B9D17.text = 1. Belvedere di Andreis
+Label_F2B8057B_EFB7_8B53_41E5_6D3AC9BDF402.text = 1. Livenza by boat 1
+Label_F171D219_EFB7_88DE_41EB_FC343E69D446.text = 10. Casera Valine 2
+Label_FBC37E99_EF9B_B548_41D0_C466C619C812.text = 10. Museo Archeologico 2
+Label_F3027E32_EFB7_98ED_41EA_155C56E3268E.text = 10. Ponte del Diavolo
+Label_F1711219_EFB7_88DE_41E6_0C90E1BD7B33.text = 11. Casso 1
+Label_FBC35E9A_EF9B_B548_41CB_8D50D5B8F710.text = 11. Museo Archeologico 3
+Label_F3026E33_EFB7_98D3_41E5_2B281E012C6B.text = 11. Tempietto Longobardo Esterni
+Label_F1713219_EFB7_88DE_41DD_FA3039D4070F.text = 12. Casso 2
+Label_FBC37E9A_EF9B_B548_41B7_AF203EF884DE.text = 12. Museo Paleocristiano 1
+Label_F3024E33_EFB7_98D3_41E9_3B02D5305894.text = 12. Tempietto Longobardo
+Label_F1716219_EFB7_88DE_41E8_CAC2F46AF9F8.text = 13. Erto
+Label_FBC08E9A_EF9B_B548_41E8_DB44567C8E17.text = 13. Museo Paleocristiano 2
+Label_F303BE33_EFB7_98D3_41D0_BFAF9CE86B06.text = 13. Vittorio Podrecca 1
+Label_AA36EBC4_EFFB_9FB5_41E1_AB0C60B17D37.text = 14. Faglia Peradriatrica 1
+Label_FBC02E9A_EF9B_B548_41ED_1CE6B57347A0.text = 14. Palazzo Episcopale
+Label_F3039E33_EFB7_98D3_41A8_EC7747B46991.text = 14. Vittorio Podrecca 2
+Label_AA360BC4_EFFB_9FB5_41ED_09B179FC4AE4.text = 15. Faglia Peradriatrica 2
+Label_FBC02E9A_EF9B_B548_41EB_9A5A40E1DCD8.text = 15. Porto Fluviale
+Label_AA364BCA_EFFB_9FBD_41D4_E7C579C8D5DC.text = 16. Faglia Peradriatrica 3
+Label_FBC04E9A_EF9B_B548_41E8_6FA2CE65D13B.text = 16. Sepolcreto
+Label_AA37EBCA_EFFB_9FBD_41E2_06F9EA782EE7.text = 17. Forra Rio Purone
+Label_AA371BCA_EFFB_9FBD_41E6_7F678174F575.text = 18. Frisanco 1
+Label_AA374BCA_EFFB_9FBD_41AA_63BC7ADFA11A.text = 19. Frisanco 2
+Label_FBDDFE98_EF9B_B548_41EA_5BF3ED0F727F.text = 2. Basilica - interni 2
+Label_F1708211_EFB7_88AE_4180_082D8F8CAF51.text = 2. Campanile di Val Montanaia 1
+Label_F3053E31_EFB7_98EF_4197_870E3BC79DD4.text = 2. Casa Medievale
+Label_F37FFD57_EFB7_9B52_41EC_58AEA9E3975C.text = 2. Galleria 2R di contromina del rivellino veneziano
+Label_F2B8657C_EFB7_8B55_41AC_565C15D9950D.text = 2. Livenza by boat 2
+Label_AA376BCB_EFFB_9FB3_41DE_151FCFFA13AE.text = 20. Malga Senons
+Label_AA309BCB_EFFB_9FB3_41EA_2FCE01E234AE.text = 21. Passo Suola 1
+Label_AA30ABCB_EFFB_9FB3_41E8_5F0F244F81E8.text = 22. Passo Suola 2
+Label_AA30EBCB_EFFB_9FB3_41CC_903E47EC70A9.text = 23. Val Cimoliana 1
+Label_AA301BCB_EFFB_9FB3_41E5_CDD3CF9EF0BD.text = 24. Val Cimoliana Cascata
+Label_AA303BCB_EFFB_9FB3_41EB_837467F66002.text = 25. Val Settimana Cascata 1
+Label_AA304BCB_EFFB_9FB3_41D2_C5B7A4AD9510.text = 26. Val Settimana Cascata 2
+Label_A8814506_EFF6_88B5_41CD_176AC027BDDC.text = 27. Val Zemola 2
+Label_FBDD3E98_EF9B_B548_41E9_BF64A482CACC.text = 3. Basilica - Northern Hall
+Label_F170E212_EFB7_88D2_41E7_FC4E87663485.text = 3. Campanile di Val Montanaia 2
+Label_F3057E31_EFB7_98EF_4199_8CD11DC893A9.text = 3. Cividale del Friuli
+Label_F2B9A57C_EFB7_8B55_41EC_E5C2A3823430.text = 3. Livenza by boat 3
+Label_F37F2D57_EFB7_9B52_41D2_22AB0DBE090C.text = 3. Loggia del Baluardo Donato
+Label_FBDD5E99_EF9B_B548_41AA_055E96338FDB.text = 4. Basilica - Sud halle
+Label_F3057E31_EFB7_98EF_41DB_633C1701462B.text = 4. Ipogeo Celtico 1
+Label_F2B9A57D_EFB7_8B57_41E9_FC7648EE819B.text = 4. Museo Torre Pordenone 1
+Label_F37F2D58_EFB7_9B5E_41E2_359A1CF5D79C.text = 4. Palmanova 1
+Label_F1701212_EFB7_88D2_41E6_D1DDEA761626.text = 4.Campanile di Val Montanaia 3
+Label_FBDD7E99_EF9B_B548_41E9_5F5945AACF38.text = 5. Basilica di S. Maria Assunta
+Label_F1700212_EFB7_88D2_41BC_55B327BE78CE.text = 5. Casera Chiampiuz 
+Label_F3055E31_EFB7_98EF_41E7_D800C510CCBA.text = 5. Ipogeo Celtico 2
+Label_F2B9857D_EFB7_8B57_41E0_0965742F7DEF.text = 5. Museo Torre Pordenone 2
+Label_F37F0D58_EFB7_9B5E_41EC_2BD502FCDE00.text = 5. Palmanova 2
+Label_F1704212_EFB7_88D2_41E6_713C52649965.text = 6. Casera Pramaggiore 1
+Label_FBC24E99_EF9B_B548_41E0_A4039FE963B3.text = 6. Decumano Aratria Galla
+Label_F3028E32_EFB7_98ED_41C3_AC1DE5D87175.text = 6. Museo Archeologico
+Label_F2B9F57D_EFB7_8B57_41D1_4649B37C9DA8.text = 6. Palu Panoramica Sito
+Label_F37F7D58_EFB7_9B5E_41B2_A5F2ADB5EB14.text = 6. Piazza Grande
+Label_F171A213_EFB7_88D2_41A0_E90F27B5AB9B.text = 7. Casera Pramaggiore 2
+Label_FBC38E99_EF9B_B548_41E1_E49CFD6ED00F.text = 7. Domus di Tito Macro
+Label_F302CE32_EFB7_98ED_41ED_15E6F3E5B9BE.text = 7. Museo Cristiano
+Label_F37C8D58_EFB7_9B5E_41DD_6E5926F7A6C2.text = 7. Porta Cividale
+Label_F2B9057D_EFB7_8B57_41D7_68E38E33352B.text = 7. Sorgenti della Santissima
+Label_F1718218_EFB7_88DE_41DF_7019128D1FA7.text = 8. Casera Roncada 1
+Label_FBC3DE99_EF9B_B548_41AA_C8C9C629A527.text = 8. Fondo CAL
+Label_F302CE32_EFB7_98ED_41EB_44BA35ECA6A4.text = 8. Museo De Martiis 1
+Label_F171F218_EFB7_88DE_41E7_5AEAF2C8D870.text = 9. Casera Valine 1
+Label_FBC31E99_EF9B_B548_41EC_18065B90BA73.text = 9. Museo Archeologico 1
+Label_F3021E32_EFB7_98ED_41EA_669DDECAEDDE.text = 9. Museo De Martiis 2
+Label_FBDC8E97_EF9B_B558_41DB_C60338ABDD57.text = AQUILEIA mettere un titolo d'effetto!
+Label_7F58B150_03C4_DA58_417C_01FFB644D95A.text = BRICIOLA DI PANE: INDICAZIONE CON NOME DELLA FOTO
+Label_F3058E30_EFB7_98ED_41EA_D8FE5A9C70A8.text = CIVIDALE DEL FRIULI mettere un titolo d'effetto!
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_F1733210_EFB7_88AE_41E1_CDED4B9E40DC.text = DOLOMITI FRIULANE mettere un titolo d'effetto!
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = DOLOR SIT AMET
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = LOREM
+Label_F37E4D56_EFB7_9B52_41E8_1F243C6E2AEF.text = PALMANOVA mettere un titolo d'effetto!
+Label_F2B8F57A_EFB7_8B5D_41EA_472A6F5D3F90.text = SITO PALAFITTICOLO DI PALù DI LIVENZA
+Label_CAE5817C_DBAE_571D_418A_71FFEF6A72A7.text = ViSITA WWW.TURISMOFVG.IT
+Label_D495623C_EFCA_88D6_41DA_1B85DE0C4C20.text = mettere un titolo d'effetto!
+Label_7800B4AD_03C5_BACB_418B_0C02B2E1F44D.text = {{title}}
+
+### Multiline Text
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.330000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.719999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6100000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.829999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.47vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.280000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = UnescoTuor_ver27-1
